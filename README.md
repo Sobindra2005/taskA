@@ -43,16 +43,20 @@ This project is purely client-side. You don't need a server to run it. Just doub
 
 ## Known Limitations and Trade-offs
 
-### 1.isn't properly optimzed .
-### 2.bad user experience when last indexed image is shown 
-### 3.isn't Mobile responsive 
-### 4.performance and ux decreases with increase in number of image.
+#### 1.isn't properly optimzed .
+#### 2.bad user experience when last indexed image is shown 
+#### 3.isn't Mobile responsive 
+#### 4.performance and ux decreases with increase in number of image.
 
 ## Future Improvements
 
-### 1. Device responsive
-### 2. Better User Interface
-### 3. lazy loading
-### 4. infinite scrolling
-### 5. ux when last indexed image is shown 
+#### 1. Device responsive
+#### 2. Better User Interface
+#### 3. lazy loading
+#### 4. infinite scrolling
+#### 5. ux when last indexed image is shown 
 
+
+
+## Time Spent 
+-approx. 3.5 hours
